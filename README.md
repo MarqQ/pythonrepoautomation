@@ -1,6 +1,8 @@
 # pythonrepoautomation
 Description to build projects on Python language
 
+[![Build Status](https://travis-ci.org/MarqQ/pythonrepoautomation.svg?branch=master)](https://travis-ci.org/MarqQ/pythonrepoautomation)
+
 Automation repository
 
 To install:
