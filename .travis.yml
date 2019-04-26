@@ -1,4 +1,6 @@
 language: python
+dist: xenial
+sudo: true
 python:
   - 3.6
   - 3.7
@@ -6,3 +8,8 @@ install:
   - pip install -r requirements-dev.txt
 script:
   - flake8
+
+env:
+  global:
+    - PIPENV_VENV_IN_PROJECT=1
+    - PIPENV_IGNORE_VIRTUALENVS=1
