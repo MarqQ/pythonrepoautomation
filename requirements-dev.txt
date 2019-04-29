@@ -4,7 +4,6 @@ entrypoints==0.3
 flake8==3.7.7
 idna==2.8
 mccabe==0.6.1
-pi==0.1.2
 pycodestyle==2.5.0
 pyflakes==2.1.1
 requests==2.21.0
