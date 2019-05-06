@@ -104,7 +104,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = "libpythonpro"
+NAME = "pythonrepoautomation"
 DESCRIPTION = "Description to build projects on Python language"
 AUTHOR = "Marcos Queiroz"
 AUTHOR_EMAIL = "marcos.w.queiroz@gmail.com"
