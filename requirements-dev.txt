@@ -6,5 +6,14 @@ idna==2.8
 mccabe==0.6.1
 pycodestyle==2.5.0
 pyflakes==2.1.1
+
+# Deps pytest
+py==1.5.0
+more-itertools==4.0.0
+atomicwrites==1.0
+pluggy==0.9
+attrs==17.4.0
+importlib-metadata==0.9
+zipp==0.3.2
 requests==2.21.0
 urllib3==1.25.2
