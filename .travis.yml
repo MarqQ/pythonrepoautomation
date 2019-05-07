@@ -13,5 +13,6 @@ env:
   global:
     - PIPENV_VENV_IN_PROJECT=1
     - PIPENV_IGNORE_VIRTUALENVS=1
+    - CODECOV_TOKEN="542be183-9edf-4500-9118-157c1e2485d2"
 after_success:
   - codecov
