@@ -20,6 +20,6 @@ urllib3==1.25.2
 
 # Coverage
 coverage==4.5.3
-pytest-cov==2.7.1
+pytest-cov==4.0.0
 
 -r requirements.txt
